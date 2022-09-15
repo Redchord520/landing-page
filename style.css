@@ -12,7 +12,7 @@ header, footer {
 header {
     display: flex;
     justify-content: space-between;
-
+    padding: 0px 96px 48px;
 }
 
 .logo {
